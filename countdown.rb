@@ -10,6 +10,6 @@ def countdown(number_of_times)
 end
 
 def countdown_with_sleep
-  sleep(1)
+  sleep(5)
 end
 
